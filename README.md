@@ -13,4 +13,17 @@
 ### My repos
 
 - [py_rtsp_timelapse](https://github.com/kito129/py_rtsp_timelapse) - [20231220] - A command line rstp camera recorder for your timelapse and security camera, written in python, inspired by repo: https://github.com/evgenii-d/rtsp-timelapse
-- [homeAutomation]([https://github.com/kito129/py_rtsp_timelapse](https://github.com/kito129/homeAutomation)) - [20230301] - This repository comprises all my home automation, networking, and residential energy control side projects. With a solar installation generating 6MW/year since 2011 and a home automation and energy optimization system from 2023, I aim to minimize my environmental footprint.
+- [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control side projects. With a solar installation generating 6MW/year since 2011 and a home automation and energy optimization system from 2023, I aim to minimize my environmental footprint.
+- [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular and Fastify
+
+### Tortuga Found Repos [2018-2023]
+
+- [excelToJson](https://github.com/kito129/excelToJson) - [20220301] -
+- [bf_platform](https://github.com/kito129/bf_platform) - [20211027] -
+- [highNlowWebsite](https://github.com/kito129/highNlowWebsite) - [20201011] -
+- [tradingPlatform](https://github.com/kito129/tradingPlatform) - [20221121] -
+- [csvLogToExcel](https://github.com/kito129/csvLogToExcel) - [20220212] -
+- [tradingLibrary](https://github.com/kito129/tradingLibrary) - [20230115] -
+- [betfairHitoricalRawDataConversion](https://github.com/kito129/betfairHitoricalRawDataConversion) - [20211120] -
+- [FitYou](https://github.com/kito129/FitYou) - [20200506] -
+- [pyTelegramBot-livescore](https://github.com/kito129/pyTelegramBot-livescore) - [20200227] -
