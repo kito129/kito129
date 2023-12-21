@@ -10,7 +10,7 @@
 - 📫 How to reach me:
   - mail: info@kito.ai
 
-### My repos
+### My projects
 
 - [py_rtsp_timelapse](https://github.com/kito129/py_rtsp_timelapse) - [20231220] - A command line rstp camera recorder for your timelapse and security camera, written in python, inspired by repo: https://github.com/evgenii-d/rtsp-timelapse
 - [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control side projects. With a solar installation generating 6MW/year since 2011 and a home automation and energy optimization system from 2023, I aim to minimize my environmental footprint.
