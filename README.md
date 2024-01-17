@@ -5,14 +5,13 @@
 -->
 
 /now
-- 🔭 Studying on
+- 📕 Studying on
   - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-- 🔭 Working on
+- 🔨 Working on
   - [kito.ai](https://github.com/kito129/kitoAi)
   - [HA](https://github.com/kito129/homeAutomation)
 - 🌱 Seeking a [data analyst role](https://www.linkedin.com/in/marco-selva/) in a dynamic tech landscape with a Tech Lead to learn and thrive. Focused on autonomy, initiative, and perpetual growth.
 
-  
 /contact
 - Here is my [CV](https://github.com/kito129/techResume/blob/main/marco_selva_resume.pdf)   
 - 📫 How to reach me:
@@ -20,13 +19,11 @@
   - ig: kito129
 
 /projects [2010-2024]
-
 - [py_rtsp_timelapse](https://github.com/kito129/py_rtsp_timelapse) - [20231220] - A command line rstp camera recorder for your timelapse and security camera, written in python, inspired by repo: https://github.com/evgenii-d/rtsp-timelapse
 - [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control side projects. With a solar installation generating 6MW/year since 2011 and a home automation and energy optimization system from 2023, I aim to minimize my environmental footprint.
 - [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular and Fastify
 
 /projects/tortuga  [2018-2023]
-
 - [excelToJson](https://github.com/kito129/excelToJson) - [20220301] -
 - [bf_platform](https://github.com/kito129/bf_platform) - [20211027] -
 - [highNlowWebsite](https://github.com/kito129/highNlowWebsite) - [20201011] -
