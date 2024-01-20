@@ -18,18 +18,28 @@
   - mail: info@kito.ai
   - ig: kito129
 
-/projects [2010-2024]
+/projects
+- [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control projects.
+- [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular v17, Pocektbase and Fastify
 - [py_rtsp_timelapse](https://github.com/kito129/py_rtsp_timelapse) - [20231220] - A command line rstp camera recorder for your timelapse and security camera, written in python, inspired by repo: https://github.com/evgenii-d/rtsp-timelapse
-- [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control side projects. With a solar installation generating 6MW/year since 2011 and a home automation and energy optimization system from 2023, I aim to minimize my environmental footprint.
-- [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular and Fastify
 
-/projects/tortuga  [2018-2023]
-- [excelToJson](https://github.com/kito129/excelToJson) - [20220301] -
-- [bf_platform](https://github.com/kito129/bf_platform) - [20211027] -
-- [highNlowWebsite](https://github.com/kito129/highNlowWebsite) - [20201011] -
-- [tradingPlatform](https://github.com/kito129/tradingPlatform) - [20221121] -
-- [csvLogToExcel](https://github.com/kito129/csvLogToExcel) - [20220212] -
-- [tradingLibrary](https://github.com/kito129/tradingLibrary) - [20230115] -
-- [betfairHitoricalRawDataConversion](https://github.com/kito129/betfairHitoricalRawDataConversion) - [20211120] -
-- [FitYou](https://github.com/kito129/FitYou) - [20200506] -
-- [pyTelegramBot-livescore](https://github.com/kito129/pyTelegramBot-livescore) - [20200227] -
+/projects/study
+- [Google data analytics - professional certificate](https://github.com/kito129/google-data-analytics-professional-certificate)
+- [Angular, RxJS and Typescript](https://github.com/kito129/fabioBiondiCourses)
+
+/projects/accademy [2019-2020]
+- [Java Game: Multiplayer Client-Server](https://github.com/kito129/ing-sw-2019-11_ProjectAdreanalina)
+- [HTML, CSS, JAVASCRIPT basic web site with express as web server](https://github.com/kito129/hypermedia19)
+
+/projects/webDeveloping
+- [bf_platform](https://github.com/kito129/bf_platform) - [angular+express+mongoDB]
+- [highNlowWebsite](https://github.com/kito129/highNlowWebsite) - [html+ES6+express]
+- [FitYou](https://github.com/kito129/FitYou) - [angular+express+Firebase]
+
+/projects/dataAnalyst
+- [excelToJson](https://github.com/kito129/excelToJson) - [python]
+- [csvLogToExcel](https://github.com/kito129/csvLogToExcel) - [python]
+- [tradingPlatform](https://github.com/kito129/tradingPlatform) - [python]
+- [tradingLibrary](https://github.com/kito129/tradingLibrary) - [python]
+- [betfairHitoricalRawDataConversion](https://github.com/kito129/betfairHitoricalRawDataConversion) - [python]
+- [pyTelegramBot-livescore](https://github.com/kito129/pyTelegramBot-livescore) - [python]
