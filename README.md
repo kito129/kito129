@@ -5,7 +5,7 @@
 -->
 
 /now
-- 🌱 Seeking a [data analyst role](https://www.linkedin.com/in/marco-selva/) in a dynamic tech landscape with a Tech Lead to learn and thrive. Focused on autonomy, initiative, and perpetual growth.
+- 🌱 Seeking a [software Developer role](https://www.linkedin.com/in/marco-selva/) in a dynamic tech landscape with a Tech Lead to learn and thrive. Focused on autonomy, initiative, and perpetual growth.
 - 📕 Studying on
   - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - 🔨 Working on
