@@ -5,10 +5,8 @@
 -->
 
 /now
-- 🌱 Seeking a [software Developer role](https://www.linkedin.com/in/marco-selva/) in a dynamic tech landscape with a Tech Lead to learn and thrive. Focused on autonomy, initiative, and perpetual growth.
-- 📕 Studying on
-  - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-- 🔨 Working on
+- 🌱 Working as Employeneur @ TMCitalia as a Backend developer, at the moment for D-Orbit, a space logistic company
+- 🔨 In Free time Working on
   - [kito.ai](https://github.com/kito129/kitoAi)
   - [HA](https://github.com/kito129/homeAutomation)
 
@@ -16,6 +14,7 @@
 - Here is my [CV](https://github.com/kito129/google-data-analytics-professional-certificate/blob/main/marco_selva_resume.pdf)  
 - 📫 How to reach me:
   - mail: info@kito.ai
+  - mail: marco.96.12@gmail.com
   - ig: kito129
 
 /projects
