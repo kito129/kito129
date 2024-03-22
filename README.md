@@ -5,7 +5,7 @@
 -->
 
 /now
-- 🌱 Working as Employeneur @ TMCitalia as a Backend developer, at the moment for D-Orbit, a space logistic company
+- 🌱 Working as Employeneur @ TMCitalia as a junior Backend SWE, for D-Orbit, a space logistic company
 - 🔨 In Free time Working on
   - [kito.ai](https://github.com/kito129/kitoAi)
   - [HA](https://github.com/kito129/homeAutomation)
