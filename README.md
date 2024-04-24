@@ -6,7 +6,7 @@
 
 /now
 - 🌱 Working as Employeneur @ TMCitalia as a junior Backend SWE, for D-Orbit, a space logistic company
-- 🔨 In Free time Working on
+- 🔨 Working on these side projects:
   - [kito.ai](https://github.com/kito129/kitoAi)
   - [HA](https://github.com/kito129/homeAutomation)
 
@@ -18,12 +18,10 @@
   - ig: kito129
 
 /projects
-- [web-crawler]([https://github.com/kito129/py_rtsp_timelapse](https://github.com/kito129/web-Crawler-d-orbit)) - [20240207] - Qualification for D-Orbit. Developing a simple web crawler in python
+- [web-crawler]([https://github.com/kito129/py_rtsp_timelapse](https://github.com/kito129/web-Crawler-d-orbit)) - [20240207] - Qualification for D-Orbit. Developing a simple web crawler [python]
 - [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control projects.
-- [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular v17, Pocektbase and Fastify
-- [py_rtsp_timelapse](https://github.com/kito129/py_rtsp_timelapse) - [20231220] - A command line rstp camera recorder for your timelapse and security camera, written in python, inspired by repo: https://github.com/evgenii-d/rtsp-timelapse
-
-
+- [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular v17, Pocektbase and Fastify [typescript+python]
+- [py_rtsp_timelapse](https://github.com/kito129/py_rtsp_timelapse) - [20231220] - A command line rstp camera recorder for your timelapse and security camera, written in python, inspired by repo: https://github.com/evgenii-d/rtsp-timelapse [python]
 
 /projects/study
 - [Google data analytics - professional certificate](https://github.com/kito129/google-data-analytics-professional-certificate)
