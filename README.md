@@ -19,6 +19,9 @@
 
 
 /projects
+
+**All [projects](https://github.com/kito129?tab=repositories)**
+
 - [web-crawler](https://github.com/kito129/web-Crawler-d-orbit) - [20240207] - Qualification for D-Orbit. Developing a simple web crawler [python]
 - [homeAutomation](https://github.com/kito129/homeAutomation) - [20230301] - This repository comprises all my home automation, networking, and residential energy control projects.
 - [kitoAi](https://github.com/kito129/kitoAi) - [20230301] - Full stack web app, Personal website in Angular v17, Pocektbase and Fastify [typescript+python]
