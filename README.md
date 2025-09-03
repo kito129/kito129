@@ -6,7 +6,7 @@
 
 /now
 - 🌱 Working as Employeneur @ [TMC Italia](https://github.com/TMC-Italia) as a Python Backend Software Engineer
-- 🚀 Actual contractor: [D-Orbit](dorbit.com), a space logistic company
+- 🚀 Actual contractor: [D-Orbit](https://dorbit.com), a space logistic company
 - 🔨 Working on these side projects:
   - [HA](https://github.com/kito129/homeAutomation)
 
