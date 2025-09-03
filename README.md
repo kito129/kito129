@@ -5,16 +5,14 @@
 -->
 
 /now
-- 🌱 Working as Employeneur @ [TMC Italia](https://github.com/TMC-Italia) as a Python Backend SWE
-- 🚀 Actual contractor: D-Orbit, a space logistic company
+- 🌱 Working as Employeneur @ [TMC Italia](https://github.com/TMC-Italia) as a Python Backend Software Engineer
+- 🚀 Actual contractor: [D-Orbit](dorbit.space), a space logistic company
 - 🔨 Working on these side projects:
-  - [kito.ai](https://github.com/kito129/kitoAi)
   - [HA](https://github.com/kito129/homeAutomation)
 
 /contact
 - Here is my [CV](https://github.com/kito129/google-data-analytics-professional-certificate/blob/main/marco_selva_resume.pdf)  
 - 📫 How to reach me:
-  - mail: info@kito.ai
   - mail: marco.96.12@gmail.com
   - ig: kito129
 
